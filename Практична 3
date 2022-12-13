@@ -1,0 +1,36 @@
+*   *
+ * *
+  *\n''' )
+    elif(textList[i] == "w"):
+        print('''*   *
+*   *
+*   *
+* * *
+** **
+*   *
+*   *\n''' )
+    elif(textList[i] == "x"):
+        print('''*   *
+*   *
+ * *
+  *
+ * *
+*   *
+*   *\n''' )
+    elif(textList[i] == "y"):
+        print('''*   *
+*   *
+ * *
+  *
+  *
+  *
+  *\n''' )
+    elif(textList[i] == "z"):
+        print('''*****
+    *
+   *
+  *
+ *
+*
+***** \n''' )
+
